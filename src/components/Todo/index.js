@@ -9,6 +9,7 @@ export default class Todo extends Component {
       todos: [
         { id: 1, name: "play" },
         { id: 2, name: "sleep" },
+        { id: 3, name: "die" },
       ],
     };
   }
